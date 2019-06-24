@@ -357,14 +357,10 @@ body {
 	background-image: url(images/frameHover.png);
 } 
 
-.like:hover {
+.like:hover, .liked {
 	background-color: #2c71b8;
 	background-image: url(images/likeHover.png);
-}
-
-.changeColorLike {
-	background-color: #2c71b8;
-	background-image: url(images/likeHover.png);
+	cursor: pointer;
 }
 
 .img {
@@ -620,3 +616,11 @@ label:before {
 	margin: 30px;
 }
 
+/*SLIDER */
+
+.slider-block div {
+	font-size: 50px;
+	text-align: center;
+	padding: 50px 0;
+	color: white;
+}
