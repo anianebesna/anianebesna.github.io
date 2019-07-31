@@ -4,6 +4,6 @@
 
 My projects
 
-[Shop project] (https://anianebesna.github.io/ShopProject/)
+[Shop project](https://anianebesna.github.io/ShopProject/)
 
-[Resto] (https://anianebesna.github.io/resto/)
+[Resto](https://anianebesna.github.io/resto/)
