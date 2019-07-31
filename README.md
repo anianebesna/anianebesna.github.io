@@ -1,8 +1,6 @@
 
 
-# Anya Nebesna
-
-My projects
+## My projects
 
 [Shop project](https://anianebesna.github.io/ShopProject/)
 
