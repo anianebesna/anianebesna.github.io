@@ -1,6 +1,6 @@
 
 
-## My projects
+## My first projects
 
 [Shop project](https://anianebesna.github.io/ShopProject/)
 
